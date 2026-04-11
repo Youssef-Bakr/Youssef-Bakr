@@ -35,6 +35,10 @@ https://ee-spectralsignaturensdi.projects.earthengine.app/view/cdndv20252017ls83
 
 https://ee-spectralsignaturensdi.projects.earthengine.app/view/v46egypt-vegetation-areamodis2025-2017
 
+https://ee-spectralsignaturensdi.projects.earthengine.app/view/v07egyptland-cover-classificationmodis-500mesa10
+
+
+
 
 <!--
 **Youssef-Bakr/Youssef-Bakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
