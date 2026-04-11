@@ -12,9 +12,13 @@ Cairo, Egypt
 
 
 ## Education
-Working on a PhD thesis (Modeling Hydrogeochemical Chracteristics of Nubian Sandstone Aquifer System)
+Working on a PhD thesis 
+(Modeling Hydrogeochemical Chracteristics of Nubian Sandstone Aquifer System)
+
 Department of Water Resources.
+
 Faculty of African Postgraduate Studies.
+
 Cairo University.
 
 ## Supporting UNCCD activities in Africa
