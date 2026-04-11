@@ -1,6 +1,17 @@
 ## Youssef Bakr
 I'm passionate about Quantum Computing and Artificial Intelligence.  I have multi-interdisciplinary skill sets. I implemented classical machine learning in My master's degree thesis, and I’m working on implementing quantum machine learning in modelling and simulation of complex systems. Emergency Preparedness and Early Warning Systems are my main focus to help decision makers across the globe better understand and act on risk. It’s time to break the cycle of disaster > response > recovery > repeat. This means switching the focus from managing disasters to managing risk.
 
+##Work Affliation
+
+HydroMetallurgy and HydroGeoChemistry Digital Twins Developer
+Desert Research Center
+
+##Education
+Working on a PhD thesis (Modeling Hydrogeochemical Chracteristics of Nubian Sandstone Aquifer System)
+Department of Water Resources.
+Faculty of African Postgraduate Studies.
+Cairo University.
+
 <!--
 **Youssef-Bakr/Youssef-Bakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
