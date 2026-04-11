@@ -4,7 +4,12 @@ I'm passionate about Quantum Computing and Artificial Intelligence.  I have mult
 ## Work Affliation
 
 HydroMetallurgy and HydroGeoChemistry Digital Twins Developer
+
 Desert Research Center
+
+Cairo, Egypt
+
+
 
 ## Education
 Working on a PhD thesis (Modeling Hydrogeochemical Chracteristics of Nubian Sandstone Aquifer System)
