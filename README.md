@@ -19,7 +19,9 @@ Cairo University.
 
 ## Supporting UNCCD activities in Africa
 ### Early Warning Systems through Earth Observation
+
 https://ee-spectralsignaturensdi.projects.earthengine.app/
+
 https://ee-spectralsignaturensdi.projects.earthengine.app/view/cdndv20252017ls830m
 
 
