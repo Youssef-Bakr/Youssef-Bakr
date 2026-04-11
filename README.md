@@ -22,6 +22,11 @@ Faculty of African Postgraduate Studies.
 Cairo University.
 
 ## Supporting UNCCD activities in Africa
+### TransAqua2NSAS
+
+Modelling the effect of TransAqua Project on the Infiltration and Recharge Dynamics in the Nubian Sandstone Aquifer System
+
+
 ### Early Warning Systems through Earth Observation
 
 https://ee-spectralsignaturensdi.projects.earthengine.app/
