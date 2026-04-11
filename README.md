@@ -17,6 +17,12 @@ Department of Water Resources.
 Faculty of African Postgraduate Studies.
 Cairo University.
 
+## Supporting UNCCD activities in Africa
+### Early Warning Systems through Earth Observation
+https://ee-spectralsignaturensdi.projects.earthengine.app/
+https://ee-spectralsignaturensdi.projects.earthengine.app/view/cdndv20252017ls830m
+
+
 <!--
 **Youssef-Bakr/Youssef-Bakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
