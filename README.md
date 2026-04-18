@@ -18,8 +18,9 @@
 ### Modeling Hydrogeochemical Characteristics  of Nubian Sandstone Aquifer System (NSAS)
 ### Modelling the effect of TransAqua Project on the Infiltration and Recharge Dynamics in the Nubian Sandstone Aquifer System (TransAqua2NSAS) 
 ### Early Warning Systems through Earth Observation
-
-## https://ee-spectralsignaturensdi.projects.earthengine.app/
+#### https://ee-spectralsignaturensdi.projects.earthengine.app/
+### UNCCD Prais4 reporting
+#### https://github.com/Youssef-Bakr/Prais4-reporting-manual
 
 
 
