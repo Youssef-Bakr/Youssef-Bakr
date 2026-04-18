@@ -1,6 +1,6 @@
 ## Youssef MMohamed Bakr
 ### I'm passionate about Quantum Computing and Artificial Intelligence.  I have multi-interdisciplinary skill sets. I implemented classical machine learning in My master's degree thesis, and I’m working on implementing quantum machine learning in modelling and simulation of complex systems. Emergency Preparedness and Early Warning Systems are my main focus to help decision makers across the globe better understand and act on risk. It’s time to break the cycle of disaster > response > recovery > repeat. This means switching the focus from managing disasters to managing risk.
-### My main focus in current projects is Desertification Risk Management.
+### Desertification Risk Management is my main focus in current projects in Desert Research Center and Cairo University.
 ### https://github.com/Youssef-Bakr/Desertification_Risk-Management
 
 ## Work Affliation
