@@ -1,41 +1,24 @@
-## Youssef Bakr
-I'm passionate about Quantum Computing and Artificial Intelligence.  I have multi-interdisciplinary skill sets. I implemented classical machine learning in My master's degree thesis, and I’m working on implementing quantum machine learning in modelling and simulation of complex systems. Emergency Preparedness and Early Warning Systems are my main focus to help decision makers across the globe better understand and act on risk. It’s time to break the cycle of disaster > response > recovery > repeat. This means switching the focus from managing disasters to managing risk.
+## Youssef MMohamed Bakr
+### I'm passionate about Quantum Computing and Artificial Intelligence.  I have multi-interdisciplinary skill sets. I implemented classical machine learning in My master's degree thesis, and I’m working on implementing quantum machine learning in modelling and simulation of complex systems. Emergency Preparedness and Early Warning Systems are my main focus to help decision makers across the globe better understand and act on risk. It’s time to break the cycle of disaster > response > recovery > repeat. This means switching the focus from managing disasters to managing risk.
+### My main focus in current projects is Desertification Risk Management.
+### https://github.com/Youssef-Bakr/Desertification_Risk-Management
 
 ## Work Affliation
 
-HydroMetallurgy and HydroGeoChemistry Digital Twins Developer
+### Remote Sensing Unit
+### Desert Research Center
+### Cairo, Egypt
 
-Desert Research Center
+## Actitivities 
 
-Cairo, Egypt
-
-
-
-## Education
-Working on a PhD thesis 
-(Modeling Hydrogeochemical Chracteristics of Nubian Sandstone Aquifer System)
-
-Department of Water Resources.
-
-Faculty of African Postgraduate Studies.
-
-Cairo University.
-
-## Supporting UNCCD activities in Africa
-### TransAqua2NSAS
-
-Modelling the effect of TransAqua Project on the Infiltration and Recharge Dynamics in the Nubian Sandstone Aquifer System
-
-
+### Modeling Hydrogeochemical Chracteristics of Nubian Sandstone Aquifer System (NSAS)
+### Modelling the effect of TransAqua Project on the Infiltration and Recharge Dynamics in the Nubian Sandstone Aquifer System (TransAqua2NSAS) 
 ### Early Warning Systems through Earth Observation
 
-https://ee-spectralsignaturensdi.projects.earthengine.app/
+## https://ee-spectralsignaturensdi.projects.earthengine.app/
 
-https://ee-spectralsignaturensdi.projects.earthengine.app/view/cdndv20252017ls830m
 
-https://ee-spectralsignaturensdi.projects.earthengine.app/view/v46egypt-vegetation-areamodis2025-2017
 
-https://ee-spectralsignaturensdi.projects.earthengine.app/view/v07egyptland-cover-classificationmodis-500mesa10
 
 
 
