@@ -1,3 +1,14 @@
+
+<img width="1125" height="675" alt="Y" src="https://github.com/user-attachments/assets/8da4d841-9a47-48d9-b718-939a29d45c88" />
+
+
+<img width="1125" height="675" alt="Y1" src="https://github.com/user-attachments/assets/fc2ba34c-3314-4811-ac2b-dad1d9bfe6bc" />
+
+
+
+
+
+
 ## Youssef Mohamed Bakr
 ### I'm passionate about Quantum Computing and Artificial Intelligence.  I have multi-interdisciplinary skill sets. I implemented classical machine learning in My master's degree thesis, and I’m working on implementing quantum machine learning in modelling and simulation of complex systems. Emergency Preparedness and Early Warning Systems are my main focus to help decision makers across the globe better understand and act on risk. It’s time to break the cycle of disaster > response > recovery > repeat. This means switching the focus from managing disasters to managing risk.
 ### Desertification Risk Management is my main focus in current projects in Desert Research Center and Cairo University.
